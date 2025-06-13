@@ -1,3 +1,5 @@
+claude code actionsをMAXプランで無料利用するために必要なリポジトリ
+
 ![Claude Code Action responding to a comment](https://github.com/user-attachments/assets/1d60c2e9-82ed-4ee5-b749-f9e021c85f4d)
 
 # Claude Code Action (OAuth Fork)
